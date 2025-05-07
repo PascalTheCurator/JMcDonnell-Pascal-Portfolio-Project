@@ -1,6 +1,6 @@
 body {
   /*background-image: url("images/header.png");*/
-  background-image: linear-gradient(dark gray, gray, light gray);
+  background-image: linear-gradient(dark grey, grey);
   font-family: 'Open Sans', sans-serif;
   color: white;
   margin: 0;
