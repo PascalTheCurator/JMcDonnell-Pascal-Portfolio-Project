@@ -85,6 +85,17 @@ ul, ol {
   float: left;
 }
 
+.img_right_small {
+  width: 30%;
+  float: right; /* this is like when you change the alignment in word processing software.
+  if you "float" to the right, then the div aligns the element to the right of the page instead of the left.*/
+}
+
+.img_left_small {
+  width: 30%;
+  float: left;
+}
+
 .text_right {
   width: 40%;
   float: right;
