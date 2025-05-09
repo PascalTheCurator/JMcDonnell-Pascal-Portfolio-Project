@@ -107,6 +107,6 @@ ul, ol {
 }
 
 .text_center {
-  width: 40%;
-  float: center;
+  width: 100%;
+  float: left;
 }
